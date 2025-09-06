@@ -1,3 +1,5 @@
+Author: Hassan Javed
+
 package TextBasedAdventureGame;
 
 import java.util.ArrayList;
